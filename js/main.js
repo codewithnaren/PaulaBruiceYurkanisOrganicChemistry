@@ -1,4 +1,4 @@
-const url = 'https://codewithnaren.github.io/OPTandonOrganicChemistry/Polity6.pdf';
+const url = 'https://codewithnaren.github.io/PaulaBruiceYurkanisOrganicChemistry/PaulaBruiceYurkanisOrganicChemistry.pdf';
 
 
 let pdfDoc = null,
